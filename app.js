@@ -10,7 +10,7 @@
     //let add = JSON.stringify(data)
     //let advice = Math.floor(Math.random() * data.length)
     document.getElementById("advice").innerHTML = slip.advice;
-    document.getElementById("qid").innerHTML = slip.id;
+    document.getElementById("qid").innerHTML = "ADVICE " + " # " + slip.id;
       console.table(slip.advice);
 
     

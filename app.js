@@ -18,7 +18,7 @@
   });
 }
 quategenerator();
-
+/*
   }
   quategenerator();
   function getVoices() {
@@ -57,7 +57,7 @@ quategenerator();
   
     speak(text, voices[5], rate, pitch, volume);
     console.log("succes")
-
+  /*
     setTimeout(()=>{ // speak after 2 seconds 
       rate = 0.5; pitch = 1.5, volume = 0.5;
       text = "Spaecking with volume = 0.5 rate = 0.5 pitch = 1.5 ";
@@ -67,8 +67,8 @@ quategenerator();
   }else{
     console.log(' Speech Synthesis Not Supported 😞'); 
   }
-
-
+  */
+/*
   document.getElementById("btn").addEventListener("mousedown", fetchAdvice);
 const quote = document.querySelector(".card__quote");
 const quoteId = document.querySelector(".quote__id");
@@ -83,7 +83,7 @@ async function fetchAdvice() {
     quote.innerText = slip.advice;
     quoteId.innerText = slip.id;
 }
-
+*/
 const playButton = document.getElementById('playbtn')
 playButton.addEventListener('click', ()=>{
   var a = "hello world"

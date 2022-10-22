@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "advice-gen",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../../../frontendmentor/advice-generator-app-main (1)/advice-generator-app-main/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "advice-gen"
+	}
+}
